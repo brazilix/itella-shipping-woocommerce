@@ -80,7 +80,7 @@ class Itella_Manifest
         'woocommerce',
         __('Itella shipments', 'itella-shipping'),
         __('Itella shipments', 'itella-shipping'),
-        'manage_options',
+        'manage_woocommerce',
         'itella-manifest',
         'itella_manifest_page',
         1
